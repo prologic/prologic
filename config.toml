@@ -1,0 +1,69 @@
+baseurl = "http://localhost:1313/"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "~prologic"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Problems are solved by method"
+  logo = "logo.png"
+  favicon = "favicon.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "James Mills"
+  website = "prologic.shortcircuit.net.au"
+  email = "prologic@shortcircuit.net.au"
+  facebook = "therealprologic"
+  twitter = "therealprologic"
+  googleplus = "+JamesMillsprologic"
+  github = "prologic"
+  linkedin = "prologic"
+  stackoverflow = "users/364980/james-mills"
+
+[[menu.main]]
+  name = "Blog"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "page/Projects"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "page/about/"
+  weight = 3
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags"
+  weight = 3
