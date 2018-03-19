@@ -15,4 +15,4 @@ WORKDIR /var/www
 EXPOSE 1313/tcp
 
 ENTRYPOINT ["/hugo"]
-CMD ["server"]
+CMD ["server", "--bind", "0.0.0.0"]
