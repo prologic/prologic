@@ -1,7 +1,6 @@
 ---
 title: "Fixing CSV Data with csvkit"
-date: 2013-03-01T10:11:00+10:00
-:   2014-01-16 12:48
+date: 2014-01-16T12:48:00+10:00
 categories:
   - Development
   - Python
