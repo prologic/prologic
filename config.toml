@@ -38,7 +38,7 @@ pygmentOptions = "linenos=inline"
 
 [[menu.main]]
   name = "Projects"
-  url = "page/Projects"
+  url = "page/projects/"
   weight = 2
 
 [[menu.main]]
