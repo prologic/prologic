@@ -1,5 +1,6 @@
 ---
 title: "About"
+subtitle: "Problems are solved by method."
 date: 2018-03-18T19:30:25-07:00
 draft: false
 ---
