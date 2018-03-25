@@ -19,7 +19,7 @@ $ hugo new page/<name>.md
 ## Testing
 
 ```#!bash
-$ HUGO_BASEURL="http://localhost:1313/" hugo server
+$ hugo server
 ```
 
 ## Deploying changes

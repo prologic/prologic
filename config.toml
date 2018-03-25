@@ -1,4 +1,4 @@
-baseurl = "https://prologic.shortcircuit.net.au/"
+baseurl = ""
 DefaultContentLanguage = "en"
 title = "~prologic"
 theme = "beautifulhugo"
