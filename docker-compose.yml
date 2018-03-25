@@ -1,0 +1,21 @@
+version: "3.3"
+
+services:
+  prologic:
+    image: prologic/prologic
+    networks:
+      - lb_traefik
+    deploy:
+      labels:
+        - "traefik.enable=true"
+        - "traefik.port=1313"
+        - "traefik.backend=prologic"
+        - "docker.network=traefik"
+        - "traefik.frontend.rule=Host:prologic.shortcircuit.net.au"
+      restart_policy:
+        condition: on-failure
+      replicas: 3
+
+networks:
+  lb_traefik:
+    external: true
