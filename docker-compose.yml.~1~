@@ -3,7 +3,6 @@ version: "3.3"
 services:
   prologic:
     image: prologic/prologic
-    command: server --bind=0.0.0.0 --port=1313 --appendPort=false --baseURL=//prologic.shortcircuit.net.au/
     networks:
       - lb_traefik
     deploy:
