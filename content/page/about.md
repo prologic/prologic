@@ -80,5 +80,7 @@ These quotes I find interesting; I **may** or **may not** live by them all!
 You may find my preferred online profile that exhibits my skills and
 experiences in two different flavors:
 
+- [Github Profile](https://github.com/prologic)
 - [Developer Story](https://stackoverflow.com/story/prologic)
+- [Sourcer Stats](https://sourcerer.io/prologic)
 - [Traditional View](https://stackoverflow.com/cv/prologic) (*CV / Resume*)
