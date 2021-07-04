@@ -7,7 +7,7 @@ and forks and all soruce code I have ever written or contributed to via Github.
 
 For why; please read [this Twt](https://twtxt.net/twt/xv2o3ua)
 
-Or [this Blob post](https://thelig.ht/abandoning-github/) by a frllow OSS dev.
+Or [this Blog post](https://thelig.ht/abandoning-github/) by a frllow OSS dev.
 
 if anyone has any thoughts or comments, feel free to reach out to me.
 
