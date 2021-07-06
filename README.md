@@ -2,8 +2,9 @@
 
 Dear follows,
 
-It is with regret that I _may_ seriously consider deleting all my repositories
-and forks and all soruce code I have ever written or contributed to via Github.
+It is with regret that I _may_ seriously consider moving all my repositories
+and forks and all soruce code I have ever written or contributed to via Github,
+off of Github and to my own Private Git Hosting.
 
 For why; please read [this Twt](https://twtxt.net/twt/xv2o3ua)
 
