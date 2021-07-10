@@ -2,6 +2,16 @@
             [Github](https://github.com) to my own private code hosting.
             See: https://twtxt.net/twt/jqlvb7a
 
+Getting a 404 on some of your Go projects that depend on my Go libraries?
+
+- Update any URI(s) from `github.com/prologic/<library>` to `git.mills.io/prologic/<library>`
+
+Where `<library>` you depned on. Notable Go libraries that have moved:
+
+- [bitcask](https://git.mills.io/prologic/bitcask)
+- [go-gopher](https://git.mills.io/prologic/go-gopher)
+
+Looking for
 ----
 
 Hi there 👋
