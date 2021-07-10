@@ -1,22 +1,6 @@
-⚠️ ⚠️ ⚠️  WARNING: I may possibly considering deleting all my code from Github! ⚠️ ⚠️ ⚠️
-
-Dear follows,
-
-It is with regret that I _may_ seriously consider moving all my repositories
-and forks and all soruce code I have ever written or contributed to via Github,
-off of Github and to my own Private Git Hosting.
-
-For why; please read [this Twt](https://twtxt.net/twt/xv2o3ua)
-
-Or [this Blog post](https://thelig.ht/abandoning-github/) by a frllow OSS dev.
-
-if anyone has any thoughts or comments, feel free to reach out to me.
-
-I will be making a decision by week's end.
-
-Kind regards
-
-James
+📣 **FYI:** I went thorugh with the decision to migrate all my code off of
+            [Github](https://github.com) to my own private code hosting.
+            See: https://twtxt.net/twt/jqlvb7a
 
 ----
 
