@@ -4,6 +4,8 @@
 
 Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back,unfortunately recent events have lead me to self-host more of my own projects and data. Please read on! 🙇
 
+----
+
 ## 10th July 2021
 
 📣 **FYI:** I went through with the decision to migrate all my code off of
