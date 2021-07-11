@@ -1,3 +1,5 @@
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/prologic/prologic/master/static/me.png" />
+
 📣 **FYI:** I went thorugh with the decision to migrate all my code off of
             [Github](https://github.com) to my own private code hosting.
             See: https://twtxt.net/twt/jqlvb7a
