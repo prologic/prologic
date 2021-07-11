@@ -46,3 +46,5 @@ Sovereign IaaS.
 - 💬 Ask me about programming, devops/sre, open-source, decentralisation,
      distributed systems and all things UNIX.
 - 📫 You can reach me at prologic at shortcircuit dot net dot au
+- 📕 You can follow me via [twtxt](https://twtxt.readthedocs.org) at https://twtxt.net/user/prologic/twtxt.txt
+- 👨‍💻 You can find my projects at https://git.mills.io/prologic
