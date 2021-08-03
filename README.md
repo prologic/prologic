@@ -1,6 +1,6 @@
 # James Mills / prologic
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/prologic/prologic/master/static/me.png" />
+<img align="left" width="120" height="120" src="https://avatars.githubusercontent.com/u/1290234?v=4" />
 
 Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back!
 
