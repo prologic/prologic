@@ -4,7 +4,7 @@
 
 Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back!
 
-
+- Projects: https://git.mills.io/prologic
 
 ----
 
