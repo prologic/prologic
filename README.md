@@ -8,30 +8,6 @@ Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and e
 
 ----
 
-## 13th July 2021
-
-📣 **FYI:** Any repos of any signifigance or popularity have been re-created
-            on [Github](https://github.com) __without__ their source code
-            and instead with just a `README.md` with a note saying where the
-            project has moved to.
-
-## 10th July 2021
-
-📣 **FYI:** I went through with the decision to migrate all my code off of
-            [Github](https://github.com) to my own private code hosting.
-            See: https://twtxt.net/twt/jqlvb7a
-
-Getting a 404 on some of your Go projects that depend on my Go libraries?
-
-- Update any URI(s) from `github.com/prologic/<library>` to `git.mills.io/prologic/<library>`
-
-Where `<library>` you depend on. Notable Go libraries that have moved:
-
-- [bitcask](https://git.mills.io/prologic/bitcask)
-- [go-gopher](https://git.mills.io/prologic/go-gopher)
-
-----
-
 Hi there 👋
 
 I'm a DevOps Team Lead from Australia/Brisbane currently working for
