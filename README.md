@@ -2,7 +2,7 @@
 
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/prologic/prologic/master/static/me.png" />
 
-Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back,unfortunately recent events have lead me to self-host more of my own projects and data. Please read on! 🙇
+Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back!
 
 ----
 
