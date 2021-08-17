@@ -11,7 +11,7 @@ Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and e
 Hi there 👋
 
 I'm a DevOps Team Lead from Australia/Brisbane currently working for
-[@AUCloud](https://git.mills.io/aucloud) on building a "public-cloud"-like
+[@AUCloud](https://www.australiacloud.com.au/) on building a "public-cloud"-like
 Sovereign IaaS.
 
 - 🗞 Check out my latest project: [fbox](https://git.mills.io/prologic/fbox)
