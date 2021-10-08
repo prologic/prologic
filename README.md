@@ -19,8 +19,8 @@ Sovereign IaaS.
   - 📦 [fbox](https://git.mills.io/prologic/fbox) -- fbox is an easy to use
        and maintain distributed file system written in Go using Reed Solomon
        Erasure with FUSE and S3 interfaces and a modern Web UI
-  - 📕 [Yarn.Social](#TBD) -- A decentralised social media platform based on
-       the original [twtxt.txt](https://twtxt.readthedocs.org) spec/format.
+  - 🧶 [Yarn.Social](https://yarn.social) -- A decentralised social media platform based on
+       the original [twtxt.txt](https://twtxt.readthedocs.org) spec/format. Social Media done right!
   - 🔑 [Bitcask](https://git.mills.io/prologic/bitcask) -- A embedded
        key/value store written in [Go](https://golang.org) with predictable
        performance, low latency and high throughput.
@@ -31,6 +31,6 @@ Sovereign IaaS.
 - 💬 Ask me about programming, devops/sre, open-source, decentralisation,
      distributed systems and all things UNIX.
 - 📫 You can reach me at prologic at shortcircuit dot net dot au
-- 📕 You can follow me via [twtxt](https://twtxt.readthedocs.org) at https://twtxt.net/user/prologic/twtxt.txt
-- 📰 You can read my blog at https://prologic.blog or https://twtxt.net/blogs/prologic
+- 📕 You can follow me via [twtxt](https://twtxt.readthedocs.org) at https://twtxt.net/~prologic/twtxt.txt
+- 📰 You can read my blog at https://prologic.blog and https://twtxt.net/blogs/prologic
 - 👨‍💻 You can find my projects at https://git.mills.io/prologic
