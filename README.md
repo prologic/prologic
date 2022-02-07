@@ -4,7 +4,7 @@
 
 Hiya 👋 I'm James Mills a Lead SRE / DevOps and founder of [Yarn.social](https://yarn.social). Formally a Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back! My mission in life is to builds tools, products and sevices that give back the freedoms we have lost and ensure our Data Privacy and Security!
 
-- Projects: https://git.mills.io/prologic
+[Projects](https://git.mills.io/prologic) [Follow me @prologic@twtxt.net](https://twtxt.net/user/prologic) [Read about me](https://prologic.blog) [Contact me](https://prologic.shortcircuit.net.au)
 
 ----
 
