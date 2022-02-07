@@ -2,7 +2,7 @@
 
 <img align="left" width="120" height="120" src="https://avatars.githubusercontent.com/u/1290234?v=4" />
 
-Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back!
+Hiya 👋 I'm James Mills a Lead SRE / DevOps and founder of [Yarn.social](https://yarn.social). Formally a Software Engineer and enthusiastic Gopher (Golang) Programmer I love open source and contributing back! My mission in life is to builds tools, products and sevices that give back the freedoms we have lost and ensure our Data Privacy and Security!
 
 - Projects: https://git.mills.io/prologic
 
@@ -10,8 +10,7 @@ Hiya 👋 I'm James Mills a Senior SRE / DevOps formally Software Engineer and e
 
 Hi there 👋
 
-I'm a DevOps Team Lead from Australia/Brisbane currently working for
-[@AUCloud](https://www.australiacloud.com.au/) on building a "public-cloud"-like
+I'm a the Lead SRE / DevOps at [@AUCloud](https://australiacloud.com.au) a "public-cloud"-like
 Sovereign IaaS.
 
 - 🗞 Check out my latest project: [fbox](https://git.mills.io/prologic/fbox)
@@ -31,6 +30,6 @@ Sovereign IaaS.
 - 💬 Ask me about programming, devops/sre, open-source, decentralisation,
      distributed systems and all things UNIX.
 - 📫 You can reach me at prologic at shortcircuit dot net dot au
-- 📕 You can follow me via [twtxt](https://twtxt.readthedocs.org) at https://twtxt.net/~prologic/twtxt.txt
-- 📰 You can read my blog at https://prologic.blog and https://twtxt.net/blogs/prologic
+- 📕 You can follow me on [Yarn.social](https://yarn.social) at [@prologic@twtxt.net](https://twtxt.net/~prologic)
+- 📰 You can read my blog at https://prologic.blog
 - 👨‍💻 You can find my projects at https://git.mills.io/prologic
