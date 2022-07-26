@@ -12,6 +12,8 @@ and ensure our Data Privacy and Security!
 
 [Projects](https://git.mills.io/prologic) [Follow me @prologic@twtxt.net](https://twtxt.net/user/prologic) [Chat with me via Salty IM @prologic@mills.io](im://prologic@mills.io) [Read about me](https://prologic.blog) [View my Personal Website](https://prologic.shortcircuit.net.au)
 
+![](https://raw.githubusercontent.com/prologic/github-stats/main/generated/overview.svg)
+
 ----
 
 Hi there 👋
