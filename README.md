@@ -2,7 +2,7 @@
 
 <img align="left" width="120" height="120" src="https://avatars.githubusercontent.com/u/1290234?v=4" />
 
-Hiya 👋 I'm James Mills a Lead SRE / DevOps Engineer and Founder of
+Hiya 👋 I'm James Mills Principal SRE Engineer and Founder of
 [Yarn.social](https://yarn.social) and [Salty.im](https://salty.im).
 
 Formally a Software Engineer and enthusiastic Gopher (Golang) Programmer
