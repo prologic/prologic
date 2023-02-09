@@ -2,6 +2,8 @@
 
 <img align="left" width="120" height="120" src="https://avatars.githubusercontent.com/u/1290234?v=4" />
 
+Please vote **no** 👎 for the [Telemetry in the Go toolchain](https://github.com/golang/go/discussions/58409) proposal 🙏
+
 Hiya 👋 I'm James Mills Principal SRE Engineer and Founder of
 [Yarn.social](https://yarn.social) and [Salty.im](https://salty.im).
 
