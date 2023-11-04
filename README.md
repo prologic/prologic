@@ -2,8 +2,6 @@
 
 <img align="left" width="120" height="120" src="https://avatars.githubusercontent.com/u/1290234?v=4" />
 
-Please vote **no** 👎 for the [Telemetry in the Go toolchain](https://github.com/golang/go/discussions/58409) proposal 🙏
-
 Hiya 👋 I'm James Mills Principal SRE Engineer and Founder of
 [Yarn.social](https://yarn.social) and [Salty.im](https://salty.im).
 
@@ -18,13 +16,7 @@ and ensure our Data Privacy and Security!
 
 ----
 
-Hi there 👋
-
-I'm a the Lead SRE / DevOps Engineer at [@AUCloud](https://australiacloud.com.au)
-a "public-cloud"-like Sovereign IaaS (ASX: SOV).
-
-- 🗞 Check out my latest project: [fbox](https://git.mills.io/prologic/fbox)
-- 🚧 I'm working on:
+- 👨‍💻 Some interesting projects of mine:
   - 🧂 [Salty.im](https://salty.im) salty.im is an open specification
        for a new Saltpack based e2e encrypted messaging protocol
        and platform for secure communications with a focus on privacy, security and being self-hosted.
