@@ -10,7 +10,7 @@ I love open source and contributing back! My mission in life is to builds
 tools, products and sevices that give back the freedoms we have lost
 and ensure our Data Privacy and Security!
 
-[Projects](https://git.mills.io/prologic) [Follow me @prologic@twtxt.net](https://twtxt.net/user/prologic) [Chat with me via Salty IM @prologic@mills.io](im://prologic@mills.io) [Read about me](https://prologic.blog) [View my Personal Website](https://prologic.shortcircuit.net.au)
+[Projects](https://git.mills.io/prologic) [Twtxt: @prologic@twtxt.net](https://twtxt.net/~prologic) [Salty IM: @prologic@mills.io](im://prologic@mills.io) [Blog](https://prologic.blog) [Website](https://prologic.shortcircuit.net.au)
 
 ![](https://raw.githubusercontent.com/prologic/github-stats/main/generated/overview.svg)
 
